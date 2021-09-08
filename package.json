@@ -1,0 +1,14 @@
+{
+  "name": "desafio5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "drdesafio5.js",
+  "scripts": {
+    "start": "nodemon drdesafio5.js"
+  },
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
